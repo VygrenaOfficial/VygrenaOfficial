@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VygrenaOfficial
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning it
-- 💞️ I’m looking to collaborate someday
+- 👀 I’m interested in programming and software engineering
+- 🌱 Currently at CSS
+- 💞️ I’m looking to learn lmao
 
 
 <!---
