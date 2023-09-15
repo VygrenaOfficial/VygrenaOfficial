@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @VygrenaOfficial
-- 👀 I’m interested in programming and software engineering
-- 🌱 Currently at CSS
-- 💞️ I’m looking to learn lmao
+public class Introduction{
+public static void main(String[] Args){
+System.out.println("Jabaskrep");
+}
+}
+- 🌱 Java
 
 
 <!---
